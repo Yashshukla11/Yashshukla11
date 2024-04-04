@@ -2,4 +2,3 @@
 
 [![Yashshukla11's GitHub | Dependencies](https://stats.quine.sh/Yashshukla11/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yashshukla11)
 
-[![Yashshukla11's GitHub | Languages Over Time](https://stats.quine.sh/Yashshukla11/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yashshukla11)
