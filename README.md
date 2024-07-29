@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at []()
 
-- 💬 Ask me about **react, next, genai, llms, langchain**
+- 💬 Ask me about **flutter, dart, genai, llms, iOS dev**
 
 - 📫 How to reach me **yashshuklaxiia2003@gmail.com**
 
