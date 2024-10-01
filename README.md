@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yashshuklaxiia2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1j5CQWcwkwRBzv3TbW9kQg-JlymsJKlCi/edit?usp=sharing&ouid=107867305057585190932&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/12-t6JZTe621jkmy1MppabKPnhzDmFYixofkbRix7geU/edit?usp=sharing)
 
 
 
