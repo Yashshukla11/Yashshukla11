@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Yashshukla11.png" width="100" style="border-radius:50%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=140&section=header&text=yash%20shukla&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=65)
 
-### yash shukla
-**full stack engineer &nbsp;·&nbsp; india 🇮🇳**
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=full+stack+engineer+%F0%9F%9A%80;co-founder+%40+SheTalksAI+%E2%86%92+applying+to+YC;SWE+%40+Adeptmin+%7C+Go+%C2%B7+React+%C2%B7+Flutter;building+in+public+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br>
 
@@ -33,5 +32,7 @@
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=Yashshukla11&color=0e75b6&style=flat&label=profile+views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=80&section=footer)
 
 </div>
