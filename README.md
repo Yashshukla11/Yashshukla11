@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td align="right"><b>day job</b></td>
-<td align="left">SWE @ Adeptmin &nbsp;·&nbsp; Go backends · JS integrations</td>
+<td align="left">SWE @ Adeptmind &nbsp;·&nbsp; Go backends · JS integrations</td>
 </tr>
 <tr>
 <td align="right"><b>stack</b></td>
